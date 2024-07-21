@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with mastering the Kotlin Language
 - 💬 Ask me about Android, NodeJS, Laravel
 - 📫 How to reach me: **muokid3@gmail.com**
-- ⚡ Fun fact: ...
+<!-- - ⚡ Fun fact: ... -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
