@@ -1,6 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=muokid3)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🌱 I’m currently learning **Kotlin**, **NodeJS**
+- 🌱 I’m currently learning **Kotlin**, **Node (Express)JS**
 - 👯 I’m looking to collaborate on anything **fintech**
 - 🤔 I’m looking for help with mastering the Kotlin Language
 - 💬 Ask me about Android, NodeJS, Laravel
