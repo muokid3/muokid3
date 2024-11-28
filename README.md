@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=muokid3)](https://github.com/ryo-ma/github-profile-trophy)
+## Hi 👋, I'm Dennis
 
 - 🌱 I’m currently learning **Kotlin**, **Node (Express)JS**
 - 👯 I’m looking to collaborate on anything **fintech**
@@ -13,6 +13,11 @@
 <a href="https://www.linkedin.com/in/dennis-muoki-96540632/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dennis Muoki" height="30" width="40" /></a>
 </p>
 
+## 💻 Tech Stack:
+![Android](https://img.shields.io/badge/Android-%234ea94b.svg?style=flat&logo=Android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat&logo=Firebase&logoColor=ffcd34) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript-%23F7DF1E.svg?style=flat&logo=Javascript&logoColor=white) ![Node.Js](https://img.shields.io/badge/Node.js-%235FA04E.svg?style=flat&logo=Node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=MySQL&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=Linux&logoColor=white)
+
+
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
@@ -55,12 +60,15 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
 </p>
+-->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muokid3&show_icons=true&locale=en&layout=donut&count_private=true" alt="muokid3" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muokid3&show_icons=true&locale=en" alt="muokid3" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muokid3&show_icons=true&locale=en&layout=donut&count_private=true&theme=rose_pine" alt="muokid3" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muokid3&" alt="muokid3" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muokid3&show_icons=true&locale=en&theme=rose_pine" alt="muokid3" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muokid3&theme=rose_pine" alt="muokid3" /></p>
 
 
 <!--
