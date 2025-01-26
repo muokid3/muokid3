@@ -1,9 +1,9 @@
 ## Hi 👋, I'm Dennis
 
-- 🌱 I’m currently learning **Kotlin**, **Node (Express)JS**
-- 👯 I’m looking to collaborate on anything **fintech**
-- 🤔 I’m looking for help with mastering the Kotlin Language
-- 💬 Ask me about Android, NodeJS, Laravel
+- 🌱 I’m currently learning **GraphQL**
+- 👯 I’m looking to collaborate on anything **Fintech**, **Android**, **Kotlin & Jetpack Compose**, **Node(Express)JS**, **Laravel**
+- 🤔 I’m looking for help with mastering GraphQL
+- 💬 Ask me about Android, NodeJS (Express), Laravel, Linux
 - 📫 How to reach me: **muokid3@gmail.com**
 <!-- - ⚡ Fun fact: ... -->
 
